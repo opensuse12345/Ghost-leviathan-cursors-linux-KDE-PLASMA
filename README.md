@@ -5,3 +5,7 @@ Step 1: install the .tar file
 Step 2: extract the tar file to your /.icons folder, it should be in /home/yourname/.icons/
 Step 3: Enable them
 And there you have it! But please note, the hotspot is from the ghost leviathan's left horn thingy to its mouth. I'm too lazy to make different hotspot versions for you guys so deal with it.
+Alternative installation methods for linux:
+Step 1: run ´git clone https://github.com/opensuse12345/Ghost-leviathan-cursors-linux-KDE-PLASMA/blob/main/Ghost-Leviathan-Cursors-V1.tar.gz´
+Step 2: extract the file to /home/(yournamehere)/.icons/
+Step 3: enable the theme in your KDE PLASMA Settings
